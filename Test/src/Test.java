@@ -4,4 +4,6 @@ public class Test {
 
     private String name256;
 
+    private Long id;
+
 }
