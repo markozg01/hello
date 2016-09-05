@@ -10,4 +10,6 @@ public class Test {
 
     private Long id2;
 
+    private Long id4;
+
 }
