@@ -6,4 +6,6 @@ public class Test {
 
     private Long id;
 
+    private Long id2;
+
 }
