@@ -2,6 +2,6 @@
 
 public class T {
 	
-	private Long a;
+	private Long ar;
 
 }
