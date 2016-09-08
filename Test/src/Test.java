@@ -10,13 +10,9 @@ public class Test {
 
     private Long id2;
 
-    private Long id44absd;
+    private Long id44abs;
 
-    private Long id43566fgd;
-    
-    private Long asd;
-
-    private Long id43566fgh;
+    private Long id43566fgdr;
 
 
 }
