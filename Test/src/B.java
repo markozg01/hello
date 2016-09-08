@@ -1,6 +1,6 @@
 
 public class B {
 	
-	private String b;
+	private String bc;
 
 }
