@@ -8,7 +8,7 @@ public class Test {
 
     private Long id3;
 
-    private Long id2;
+    private Long id2k;
 
     private Long id44abs;
 
