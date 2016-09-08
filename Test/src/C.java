@@ -1,6 +1,5 @@
-
 public class C {
 
-    private String a;
+    private String ab;
 
 }
