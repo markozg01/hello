@@ -1,6 +1,5 @@
-
 public class B {
-	
-	private String bce;
+
+    private String bce33333;
 
 }
