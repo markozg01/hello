@@ -1,6 +1,6 @@
 
 
-public class T {
+public class TnoviNaziv {
 	
 	private Long ar;
 
