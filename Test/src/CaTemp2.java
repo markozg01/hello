@@ -1,9 +1,9 @@
 public class CaTemp2 {
 
-    private String abcdef44444453333xxrt;
+    private String name;
 
-    private String dodano33x44433;
+    private String temp;
 
-    private String dodano33x44433344;
+    private String name2;
 
 }
