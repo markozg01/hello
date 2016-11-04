@@ -2,7 +2,7 @@ public class CaTemp2 {
 
     private String name43;
 
-    private String temp;
+    private String temp33;
 
     private String name24;
 
