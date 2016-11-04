@@ -1,7 +1,6 @@
 
-
 public class TnoviNaziv {
-	
-	private Long ar;
+
+    private Long ar3;
 
 }
