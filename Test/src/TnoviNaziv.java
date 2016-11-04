@@ -1,5 +1,5 @@
 public class TnoviNaziv {
 
-    private Long ar34;
+    private Long ar3433;
 
 }
