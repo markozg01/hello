@@ -1,6 +1,6 @@
 public class CaTemp2 {
 
-    private String name;
+    private String name4;
 
     private String temp;
 
