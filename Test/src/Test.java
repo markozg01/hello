@@ -2,7 +2,7 @@ public class Test {
 
     private String name23454;
 
-    private String name256;
+    private String name2564;
 
     private Long id;
 
