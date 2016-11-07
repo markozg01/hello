@@ -6,6 +6,6 @@ public class CaTemp2 {
 
     private String temp33444;
 
-    private String name243;
+    private String name2434;
 
 }
