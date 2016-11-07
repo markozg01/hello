@@ -1,5 +1,4 @@
-
 public class Test3 {
 
-    private String name;
+    private String name44;
 }
