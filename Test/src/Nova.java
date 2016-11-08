@@ -1,5 +1,4 @@
-
 public class Nova {
 
-    private Long a;
+    private Long a44;
 }
