@@ -1,6 +1,6 @@
 public class CnoviNaziv {
 
-    private String abcdef44444444444443344;
+    private String abcdef4444444444444334444;
 
     private String abcd444444444444444443eee;
 
