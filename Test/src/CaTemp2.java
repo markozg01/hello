@@ -1,6 +1,6 @@
 public class CaTemp2 {
 
-    private String name33444xxxxd455;
+    private String name33444xxxxd455dd;
 
     private String temp33555533;
 
