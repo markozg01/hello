@@ -12,4 +12,8 @@ public class CaTemp2 {
     	int b = 0;
 	}
 
+	public void add( int a ) {
+
+	}
+
 }
