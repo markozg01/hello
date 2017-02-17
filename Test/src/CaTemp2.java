@@ -7,5 +7,9 @@ public class CaTemp2 {
     private String temp334444444444;
 
     private String name24344444433447;
+    
+    public void add( int a ) {
+    	int b = 0;
+	}
 
 }
