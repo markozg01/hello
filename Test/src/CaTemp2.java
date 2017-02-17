@@ -8,4 +8,8 @@ public class CaTemp2 {
 
     private String name24344444433447;
 
+	public void add( int a ) {
+
+	}
+
 }
