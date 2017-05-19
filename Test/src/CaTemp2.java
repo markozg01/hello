@@ -1,12 +1,12 @@
 public class CaTemp2 {
 
-    private String name33444xxxxd455dd;
+    private String name;
 
-    private String temp335555333;
+    private String temp;
 
-    private String temp334444444444;
+    private String temp2;
 
-    private String name24344444433447;
+    private String name2;
     
     public void add( int a ) {
     	int b = 0;
