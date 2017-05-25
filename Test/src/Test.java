@@ -17,5 +17,11 @@ public class Test {
     private Long novoGrana544;
     
     private String nekoNovPolje;
+    
+    
+    public void test(){
+        
+    }
+    
 
 }
