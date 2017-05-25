@@ -26,4 +26,8 @@ public class Test {
 
     private String novoPolje;
 
+    public void test( String a ) {
+
+    }
+
 }
