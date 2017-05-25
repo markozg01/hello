@@ -15,5 +15,7 @@ public class Test {
     private Long id43566fgdregr44;
 
     private Long novoGrana544;
+    
+    private String nekoNovPolje;
 
 }
