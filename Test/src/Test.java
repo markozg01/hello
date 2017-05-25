@@ -24,4 +24,6 @@ public class Test {
     }
     
 
+    private String novoPolje;
+
 }
