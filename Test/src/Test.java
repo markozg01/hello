@@ -1,9 +1,9 @@
 public class Test {
 
-    private String nekoNovPolje;
+    private String nekoNovPolje2;
 
     public void test() {
-
+    	
     }
 
 }
