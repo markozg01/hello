@@ -1,6 +1,6 @@
 public class Test {
 
-    private String nekoNovPolje2;
+    private String nekoNovPolje233;
 
     public void test() {
     	
